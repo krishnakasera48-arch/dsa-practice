@@ -38,4 +38,4 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 
 ---
 
-More topics such as Sliding Window, Binary Search, Linked Lists, Trees, Graphs, and Dynamic Programming will be added as I continue learning.
+More topics such as Sorting, Sliding Window, Binary Search, Linked Lists, Trees, Graphs, and Dynamic Programming will be added as I continue learning.
